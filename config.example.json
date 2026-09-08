@@ -1,0 +1,5 @@
+{
+  "API_KEY": "your-api-key-here",
+  "OPENAI_API_BASE": "https://aibe.mygreatlearning.com/openai/v1",
+  "TAVILY_API_KEY": "your-tavily-api-key-here"
+}
